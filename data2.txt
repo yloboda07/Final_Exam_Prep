@@ -1,3 +1,14 @@
-baot234’yn8bas92*b 
-s2ba#9don71abis012 
-,fygx*@qnadb543nas
+Cancel
+de=Abbrechen
+es=Cancelar
+fr=Annuler
+Close
+de=Schließen
+es=Cerrar 
+fr=Fermer
+OK
+fr=Approuver
+Open 
+de=Öffnen
+es=Abrir
+fr=Ouvrir
